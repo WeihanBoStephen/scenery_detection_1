@@ -1,0 +1,24 @@
+2017-12-06 02:43:04,326 ERROR     URLError while downloading image https://api.services.trvl.com/backgrounds/images/tour-eiffel_1.jpg
+reason:[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:748)
+2017-12-06 02:43:42,317 ERROR     URLError while downloading image https://i2-prod.mirror.co.uk/incoming/article8293629.ece/ALTERNATES/s615b/Two-daredevils-climb-the-Eiffel-Tower.jpg
+reason:Forbidden
+2017-12-06 02:44:20,042 ERROR     URLError while downloading image https://imgs.tuts.dragoart.com/how-to-draw-the-eiffel-tower_1_000000021655_5.jpg
+reason:[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:748)
+2017-12-06 02:50:31,035 ERROR     URLError while downloading image http://tidyup.org.uk/imgsb/1-Interesting-Facts-about-Big-Ben-04_800x534.jpg
+reason:[Errno 8] nodename nor servname provided, or not known
+2017-12-06 02:53:07,665 ERROR     URLError while downloading image http://www.justabouttravel.net/wp-content/uploads/2012/10/Big_Ben.jpg
+reason:Bad Gateway
+2017-12-06 03:00:37,414 ERROR     URLError while downloading image https://i2-prod.mirror.co.uk/incoming/article8102776.ece/ALTERNATES/s615/Tower-Bridge.jpg
+reason:Forbidden
+2017-12-06 03:07:02,484 ERROR     URLError while downloading image https://travel.usnews.com/dims4/USNEWS/1a4ae26/2147483647/resize/637x426%3E/quality/85/?url=/static-travel/images/destinations/82/138711698.jpg
+reason:Forbidden
+2017-12-06 03:17:32,058 ERROR     URLError while downloading image https://travel.usnews.com/static-travel/images/destinations/290/sydney_opera_house_new_main.jpg
+reason:Forbidden
+2017-12-06 03:30:09,933 ERROR     Unexpeted error while downloading image http://images.bit-tech.net/content_images/2010/02/pyramid-by-henk-hamers/2.jpg
+error type:<class 'http.client.RemoteDisconnected'>, args:('Remote end closed connection without response',)
+2017-12-06 03:38:21,628 ERROR     URLError while downloading image http://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=14392&fileTy=MEDIA&fileNo=1&thumbTy=L
+reason:The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+2017-12-06 03:53:24,284 ERROR     URLError while downloading image https://takingthekids.com/wp-content/uploads/2014/01/ABC-Westport-boys-visit-the-Statue-of-Liberty.jpg
+reason:[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:748)
